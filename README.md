@@ -25,10 +25,13 @@ delta-hedging simulation and professional PDF report with graphs.
 - `option_report_YYYYMMDD_HHMMSS.pdf` (complete report)
 - 4 graphs in PNG format:
 - Payoff distribution
+ ![Payoff distribution](payoff_distribution.png)
 - Monte Carlo convergence
+ ![Monte Carlo convergence](mc_convergence.png)
 - Sample price paths
+![Sample price paths](price_paths.png)
 - Delta-hedging error distribution
-
+![Delta Hedging Error](delta_hedging_error.png)
 ---
 
 ### 🛠 Technology
@@ -85,6 +88,8 @@ The project is still under development.
 The plan is to further improve the delta-hedging simulation,
 add American options and the ability to save results to Excel.
 
+I created this project as preparation for the position of Junior Quantitative Analyst.
+
 ------------------
 
 ### ČESKY ###
@@ -111,10 +116,14 @@ simulace delta-hedgingu a profesionální PDF report s grafy.
 ### 📊 Vytvářené výstupy
 - `option_report_YYYYMMDD_HHMMSS.pdf` (kompletní report)
 - 4 grafy ve formátu PNG:
-  - Distribuce payoffů
-  - Konvergence Monte Carlo
-  - Ukázkové cenové cesty
-  - Distribuce chyb delta-hedgingu
+**Distribuce payoffů**
+![Distribuce payoffů](payoff_distribution.png)
+**Konvergence Monte Carlo simulace**
+![Konvergence Monte Carlo](mc_convergence.png)
+**Simulované cenové cesty podkladového aktiva**
+![Cenové cesty](price_paths.png)
+**Distribuce chyb Delta-Hedgingu**
+![Delta Hedging Error](delta_hedging_error.png)
 
 ---
 
@@ -174,4 +183,5 @@ Projekt je stále ve vývoji.
  V plánu je další vylepšení simulace delta-hedgingu,
 přidání amerických opcí a možnost ukládání výsledků do Excelu.
 
+Tento projekt jsem vytvořil jako přípravu na pozici Junior Quantitative Analyst.
 
