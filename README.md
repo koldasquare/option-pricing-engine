@@ -7,6 +7,8 @@
 Implementation of three main option pricing methods + Greeks calculation,
 delta-hedging simulation and professional PDF report with graphs.
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ### ✨ Main features
