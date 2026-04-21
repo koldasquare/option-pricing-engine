@@ -9,6 +9,9 @@ delta-hedging simulation and professional PDF report with graphs.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+**Author:** Lukáš Kolík
+
 ---
 
 ### ✨ Main features
@@ -68,6 +71,7 @@ Result prices:Black-Scholes ≈ 10.45
 Monte Carlo ≈ 10.4x
 Binomial Tree ≈ 10.4x
 
+---
 ### Practical use
 
 This tool is suitable for:
@@ -101,6 +105,8 @@ I created this project as preparation for the position of Junior Quantitative An
 Implementace tří hlavních metod oceňování opcí + výpočet Greeks,
 simulace delta-hedgingu a profesionální PDF report s grafy.
 
+**Autor:** Lukáš Kolík
+
 ---
 
 ### ✨ Hlavní funkce
@@ -111,6 +117,7 @@ simulace delta-hedgingu a profesionální PDF report s grafy.
 - Výpočet **Greeks** (Delta, Gamma, Vega, Theta, Rho)
 - Základní simulace **delta-hedgingu**
 - Generování profesionálního **PDF reportu** včetně grafů
+- Automatický export grafů jako PNG soubory
 - Interaktivní zadání parametrů při spuštění
 
 ### 📊 Vytvářené výstupy
