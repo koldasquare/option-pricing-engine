@@ -192,3 +192,15 @@ přidání amerických opcí a možnost ukládání výsledků do Excelu.
 
 Tento projekt jsem vytvořil jako přípravu na pozici Junior Quantitative Analyst.
 
+ Struktura projektu
+
+option-pricing-engine/
+├── option_pricing_engine.py          # Hlavní soubor se všemi funkcemi
+├── requirements.txt                  # Seznam potřebných knihoven
+├── README.md                         # Tato dokumentace
+│
+├── payoff_distribution.png           # Graf distribuce payoffů
+├── mc_convergence.png                # Graf konvergence Monte Carlo
+├── price_paths.png                   # Graf simulovaných cenových cest
+├── delta_hedging_error.png           # Graf chyb delta-hedgingu
+└── option_report_YYYYMMDD_HHMMSS.pdf # Vygenerovaný PDF report
